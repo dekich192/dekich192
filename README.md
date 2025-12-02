@@ -7,7 +7,7 @@
 
 **`Backend Developer | API Architect | Process Optimizer`**
 
-I'm a passionate junior backend developer, building efficient and reliable services with Python. To me, code is more than just work—it's about solving problems, whether it's fixing a production bug or shaving milliseconds off API response time. I believe in clean architecture, testing, and continuous growth.
+Python backend developer from Almaty with experience in building web applications and microservices. Specialized in server-side development using modern technology stack. Focused on creating scalable, efficient, and maintainable solutions.
 
 
 
