@@ -3,7 +3,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@Einpwwq-blue?style=flat&logo=telegram)](https://t.me/Einpwwq)
 [![Email](https://img.shields.io/badge/Email-egoroot23@gmail.com-red?style=flat&logo=gmail)](mailto:egoroot23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dekich192-black?style=flat&logo=github)](https://github.com/dekich192)
-[![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=flat&logo=steam)](https://steamcommunity.com/profiles/76561199000046729/)
 
 **`Backend Developer | API Architect | Process Optimizer`**
 
